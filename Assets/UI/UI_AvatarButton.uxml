@@ -1,3 +1,4 @@
 <ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
-    <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" style="-unity-text-align: middle-center; height: 200px; width: 200px; flex-direction: row; max-width: 200px; max-height: 200px; min-width: 200px; min-height: 200px; flex-wrap: wrap;" />
+    <Style src="project://database/Assets/USSTest.uss?fileID=7433441132597879392&amp;guid=b362c46a8759180489d73d3e3b093ddc&amp;type=3#USSTest" />
+    <ui:Button parse-escape-sequences="true" display-tooltip-when-elided="true" style="-unity-text-align: middle-center; height: 20%; width: 20%; flex-direction: row; max-width: 200px; max-height: 200px; min-width: 200px; min-height: 200px; flex-wrap: wrap;" />
 </ui:UXML>
