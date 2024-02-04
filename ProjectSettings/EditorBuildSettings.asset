@@ -11,10 +11,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Home.unity
     guid: 3fc8acdd13e6c734bafef6554d6fdbcd
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/GameInventor.unity
     guid: e2b48f3849f8c3746ba264e51cc71ee2
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/CrazyScientist.unity
     guid: 0caa68a991ce39d42b865db983d2daa2
   m_configObjects:
